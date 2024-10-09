@@ -1,0 +1,1 @@
+This is a basic landing page made using html and css
